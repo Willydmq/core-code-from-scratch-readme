@@ -9,21 +9,18 @@
 
 Representación en diagrama de flujo:
 
-Inicio
-|
-|     Pedir al usuario que ingrese un número entero (n)
-|     |
-|     |
-|     V
-|   Dividir n entre 2
-|   |
-|   |
-|   V
-|   ¿El residuo de la división es 0?
-|   |
-|   |------> Sí -----> Escribir "El número es par"
-|   |
-|   |------> No -----> Escribir "El número es impar"
-|   |
-|   V
-| Fin
+<p>Inicio</p>
+<ul>
+    <li>Pedir al usuario que ingrese un número entero (n)</li>
+    <ul>
+        <li>Dividir n entre 2</li>
+        <ul>
+            <li>¿El residuo de la división es 0?</li>
+            <ul>
+                <li>Sí &rarr; Escribir "El número es par"</li>
+                <li>No &rarr; Escribir "El número es impar"</li>
+            </ul>
+        </ul>
+    </ul>
+</ul>
+<p>Fin</p>
