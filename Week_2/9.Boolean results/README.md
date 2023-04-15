@@ -1,0 +1,3 @@
+# Boolean results
+
+## Solución 😎
