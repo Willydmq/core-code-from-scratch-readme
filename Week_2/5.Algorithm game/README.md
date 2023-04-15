@@ -1,0 +1,5 @@
+# Algorithm game
+
+## Solution 😎
+
+
