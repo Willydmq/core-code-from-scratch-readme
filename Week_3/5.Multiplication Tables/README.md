@@ -1,0 +1,3 @@
+# Multiplication Tables
+
+## Solución 😎
