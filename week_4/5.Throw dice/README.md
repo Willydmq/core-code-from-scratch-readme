@@ -1,0 +1,3 @@
+# Throw dice
+
+## Solución 😎
