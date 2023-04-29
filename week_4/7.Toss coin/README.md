@@ -1,0 +1,3 @@
+# Toss Coin
+
+## Solución 😎
