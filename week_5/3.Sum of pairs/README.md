@@ -1,0 +1,3 @@
+# Sum of pairs
+
+## Solución 😎
