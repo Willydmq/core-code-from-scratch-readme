@@ -1,0 +1,3 @@
+# Mid point
+
+## Solución 😎
